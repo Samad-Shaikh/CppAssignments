@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Drive/Saxion/2.2 Cpp/2/search/functions.h
+
+C:/Drive/Saxion/2.2 Cpp/2/search/main.cpp
+iostream
+-
+random
+-
+chrono
+-
+ctime
+-
+functions.h
+C:/Drive/Saxion/2.2 Cpp/2/search/functions.h
+
+C:/Drive/Saxion/2.2 Cpp/2/search/print_array.cpp
+iostream
+-
+functions.h
+C:/Drive/Saxion/2.2 Cpp/2/search/functions.h
+
+C:/Drive/Saxion/2.2 Cpp/2/search/search-array.cpp
+functions.h
+C:/Drive/Saxion/2.2 Cpp/2/search/functions.h
+

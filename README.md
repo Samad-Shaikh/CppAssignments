@@ -8,3 +8,7 @@ too high or too low. If the user guesses the right number, the program should te
 of guesses, the program should tell them they lost, and what the correct number is. At the end of the game, the
 user should be asked if they want to play again. If the user doesn’t enter ‘y’ or ‘n’, ask them again.
 Note: You do not need to implement error handling for the user’s guess.
+
+## Assignment 2: Array and Pointers
+Implement a function which will search for a value in an array and return an index to the value in the array.
+Use this function to insert new values into a sorted array and implement an insertion sort algorithm.

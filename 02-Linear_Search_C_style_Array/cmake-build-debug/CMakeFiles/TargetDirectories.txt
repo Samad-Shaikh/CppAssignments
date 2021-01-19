@@ -1,0 +1,3 @@
+C:/Drive/Saxion/2.2 Cpp/2/search/cmake-build-debug/CMakeFiles/search.dir
+C:/Drive/Saxion/2.2 Cpp/2/search/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Drive/Saxion/2.2 Cpp/2/search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
