@@ -1,0 +1,3 @@
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/cmake-build-debug/CMakeFiles/Blackjack.dir
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

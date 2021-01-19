@@ -12,3 +12,7 @@ Note: You do not need to implement error handling for the user’s guess.
 ## Assignment 2: Array and Pointers
 Implement a function which will search for a value in an array and return an index to the value in the array.
 Use this function to insert new values into a sorted array and implement an insertion sort algorithm.
+
+## Assignment 3: Blackjack
+Implement Blackjack
+

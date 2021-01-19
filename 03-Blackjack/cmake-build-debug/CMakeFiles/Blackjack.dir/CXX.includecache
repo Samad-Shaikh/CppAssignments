@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Blackjack.cpp
+random
+-
+ctime
+-
+iostream
+-
+Blackjack.h
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Blackjack.h
+
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Blackjack.h
+Deck.h
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Deck.h
+
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Card.cpp
+iostream
+-
+Card.h
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Card.h
+
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Card.h
+
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Deck.cpp
+iostream
+-
+Deck.h
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Deck.h
+
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Deck.h
+vector
+-
+Card.h
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Card.h
+
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Game.cpp
+iostream
+-
+Game.h
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Game.h
+
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Game.h
+Blackjack.h
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Blackjack.h
+
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/main.cpp
+iostream
+-
+Windows.h
+-
+Game.h
+C:/Drive/Saxion/2.2 Cpp/3/Blackjack/Game.h
+
