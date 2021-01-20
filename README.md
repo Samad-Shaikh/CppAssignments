@@ -14,5 +14,7 @@ Implement a function which will search for a value in an array and return an ind
 Use this function to insert new values into a sorted array and implement an insertion sort algorithm.
 
 ## Assignment 3: Blackjack
-Implement Blackjack
+Implement Blackjack.
 
+## Assignment 4: C++ Redis
+implement an in-memory key-value database in the style of Redis.
