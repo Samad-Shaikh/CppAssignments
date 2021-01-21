@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+f01369581820d4b1d462851355154371 dygraph.css
+2f65e52657536c3f2af3aae7f6ba705b dygraph.min.js
+9e509bef74a36f6560591e993c380660 figure.txt
+35e127336fb6ee717f20d402878429d9 graph.tpl

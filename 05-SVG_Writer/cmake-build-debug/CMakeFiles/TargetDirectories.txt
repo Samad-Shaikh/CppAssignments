@@ -1,0 +1,3 @@
+C:/Drive/Saxion/2.2 Cpp/6/SVG/cmake-build-debug/CMakeFiles/svg.dir
+C:/Drive/Saxion/2.2 Cpp/6/SVG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Drive/Saxion/2.2 Cpp/6/SVG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

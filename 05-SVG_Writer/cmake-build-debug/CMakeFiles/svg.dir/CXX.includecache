@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/AllocateStatistics.cpp
+AllocateStatistics.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/AllocateStatistics.h
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/AllocateStatistics.h
+iostream
+-
+memory
+-
+vector
+-
+cmath
+-
+random
+-
+chrono
+-
+deque
+-
+fstream
+-
+sstream
+-
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Figure.cpp
+limits
+-
+fstream
+-
+Figure.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Figure.h
+Shape/Line.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Line.h
+Shape/Circle.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Circle.h
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Figure.h
+vector
+-
+memory
+-
+Shape/Shape.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Shape.h
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Circle.cpp
+Circle.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Circle.h
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Circle.h
+Shape.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Shape.h
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Line.cpp
+Line.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Line.h
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Line.h
+Shape.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Shape.h
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Shape.cpp
+Shape.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Shape.h
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Shape/Shape.h
+ostream
+-
+
+C:/Drive/Saxion/2.2 Cpp/6/SVG/main.cpp
+AllocateStatistics.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/AllocateStatistics.h
+Figure.h
+C:/Drive/Saxion/2.2 Cpp/6/SVG/Figure.h
+
